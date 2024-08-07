@@ -1,4 +1,4 @@
-name: Bug report form
+name: Bug report
 description: Use this template for reporting bugs.
 labels: bug
 body: 
