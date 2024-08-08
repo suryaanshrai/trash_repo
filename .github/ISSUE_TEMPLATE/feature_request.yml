@@ -7,7 +7,7 @@ body:
       value: |
         Thanks for suggesting a feature!
         If you like to discuss your idea first, please join our [Slack](https://join.slack.com/t/dat-labs/shared_invite/zt-23wh57yhx-3kAdu022NJjabn8M25qTxA)
-        and pose your questions in the #technical-help channel.
+        and pose your questions in the `#technical-help` channel.
         For minor features and improvements, feel free to open a [pull request](https://github.com/dat-labs/dat-core/pulls) directly.
   - type: textarea
     attributes:
