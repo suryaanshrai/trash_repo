@@ -19,12 +19,18 @@ body:
     attributes:
       label: Description
       description: Please provide a clear and concise description of the issue. What is the expected behavior, and what is the actual behavior?
+      placeholder: >
+        Share the context in which the issue occurred, and details of what happened.
     validations:
       required: false
   - type: textarea
     attributes:
       label: Steps to Reproduce
       description: Please provide detailed steps to reproduce the issue.
+      placeholder: >
+        Furnish a detailed, step-by-step description of the procedure to replicate the
+        issue you're encountering. For utmost clarity, consider including a link to a public
+        repository containing a minimalistic reproducer, or share a code snippet that facilitates the problem reproduction.
     validations:
       required: false
   - type: textarea
@@ -78,17 +84,6 @@ body:
         - "3.8"
     validations:
       required: true
-  - type: textarea
-    attributes:
-      label: Environment
-      description: |
-        Please provide the following details:
-        - Operating System:
-        - Browser (if applicable):
-        - Python version (if applicable):
-        - Other relevant software versions:
-    validations:
-      required: false
   - type: textarea
     attributes:
       label: Additional Context
