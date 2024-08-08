@@ -27,6 +27,7 @@ body:
         - "Yes, I run dat in production."
         - "Yes, I use it for fun."
         - "I'd consider using dat, but it's lacking a feature I need."
+        - "No, I don't use dat."
     validations:
       required: true
   - type: textarea
