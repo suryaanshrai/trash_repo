@@ -5,7 +5,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for bringing a potential issue to our attention! Kindly complete the following sections. If you're uncertain whether this constitutes a bug or not, we encourage you to visit our [Slack workspace](https://join.slack.com/t/dat-labs/shared_invite/zt-23wh57yhx-3kAdu022NJjabn8M25qTxA) and inquire in the #technical-help channel.
+        Thank you for bringing a potential issue to our attention! 
+        Kindly complete the following sections. 
+        If you're uncertain whether this constitutes a bug or not, we encourage you to visit our [Slack workspace](https://join.slack.com/t/dat-labs/shared_invite/zt-23wh57yhx-3kAdu022NJjabn8M25qTxA) and inquire in the #technical-help channel.
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
