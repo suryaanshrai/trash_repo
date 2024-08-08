@@ -22,7 +22,7 @@ body:
       placeholder: >
         Share the context in which the issue occurred, and details of what happened.
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Steps to Reproduce
@@ -30,7 +30,7 @@ body:
       placeholder: >
         Furnish a detailed, step-by-step description of the procedure to replicate the issue you're encountering. For utmost clarity, consider including a link to a public repository containing a minimalistic reproducer, or share a code snippet that facilitates the problem reproduction.
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Screenshots
